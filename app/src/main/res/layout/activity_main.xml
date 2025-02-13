@@ -29,25 +29,25 @@
             android:layout_height="wrap_content"
             android:text="@string/simpleAlert" />
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/listAlert"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/button2" />
+            android:text="@string/listAlert" />
         <Button
-            android:id="@+id/button3"
+            android:id="@+id/datePickerAlert"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/button3" />
+            android:text="@string/datePickerAlert" />
         <Button
-            android:id="@+id/button4"
+            android:id="@+id/timePickerAlert"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/button4" />
+            android:text="@string/timePickerAlert" />
         <Button
-            android:id="@+id/button5"
+            android:id="@+id/customAlert"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/button5" />
+            android:text="@string/customAlert" />
     </LinearLayout>
 
 </LinearLayout>
