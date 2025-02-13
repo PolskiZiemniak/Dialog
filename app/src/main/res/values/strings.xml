@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="mainTextView">TextView</string>
+    <string name="simpleAlert">Simple Alert</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
+    <string name="button4">Button4</string>
+    <string name="button5">Button5</string>
+</resources>
